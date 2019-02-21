@@ -1,1 +1,0 @@
-worker: nodemon bot.js
